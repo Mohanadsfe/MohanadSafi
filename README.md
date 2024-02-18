@@ -1,7 +1,15 @@
-Hi there 👋, I'm Mohand Safi, a Computer Science student passionate about coding and open-source projects.
+# Hi there! 👋 I'm Mohand Safi
 
-🌟 GitHub Stars
+![Profile Picture](link_to_your_profile_picture)
 
-    💞️ I’m looking to collaborate on open-source projects and contribute to solving interesting issues.
-    📫 You can reach me via email at mohandsafi@example.com.
-    💬 Feel free to contact me on GitHub for any inquiries or discussions.
+## About Me
+I'm a Computer Science student at Ariel University, passionate about coding and open-source projects.
+
+## Contact Me
+Feel free to reach out to me via email or connect with me on LinkedIn:
+
+[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:mohandsafi@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)]([https://www.linkedin.com/in/mohandsafi](https://www.linkedin.com/in/mohanad-sfe-b04855233/)https://www.linkedin.com/in/mohanad-sfe-b04855233/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
